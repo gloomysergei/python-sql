@@ -1,9 +1,9 @@
 [project]
 authors = [
-    {name = "Hexlet team", email = "team@hexlet.io"},
+    {name = "Sergey Jkovlev", email = "almazopal@gmail.com"},
 ]
 requires-python = "<4.0,>=3.12"
-name = "python-example-app"
+name = "python-example-sql"
 version = "0.1.0"
 description = "Example application"
 readme = "README.md"
