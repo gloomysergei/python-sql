@@ -7,6 +7,9 @@ name = "python-example-sql"
 version = "0.1.0"
 description = "Example application"
 readme = "README.md"
+dependencies = [
+    "psycopg[binary]>=3.3.5",
+]
 
 [dependency-groups]
 dev = [
