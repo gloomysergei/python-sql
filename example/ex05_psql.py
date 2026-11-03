@@ -84,6 +84,7 @@ with psycopg.connect(dbname = 'hexlet', user = 'sergey') as conn:
    
     result = get_order_sum(conn, 5)
     print(result)
+    
    
         
 # выполнить запрос - общая сумма заказов каждого покупателя за конкретный месяц независимо от года
